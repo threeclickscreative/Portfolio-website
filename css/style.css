@@ -26,6 +26,12 @@ font-weight: 500;
 font-style: normal;
 */
 
+header {
+  background-color: #B2B5A7;
+  padding: 10px;
+  margin: 0 auto;
+}
+
 body {
     background-color: #F2EEEB;
     font-family: 'brandon-grotesque', sans-serif;
@@ -72,7 +78,7 @@ img {
     text-decoration: underline; /* Underlining when hovering over a link */
   }
   a:visited { /* visited link */
-    color: #B2B5A7;
+    color: #15303A;
   }
   a:active { /* selected link */
     color: #B2B5A7;
